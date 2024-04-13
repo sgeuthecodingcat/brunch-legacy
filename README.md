@@ -1,5 +1,5 @@
 <div style='text-align: center;'>
-  Brunch Legacy 
+ # Brunch Legacy 
 </div>
 
 # About this project
