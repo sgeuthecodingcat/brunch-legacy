@@ -31,3 +31,9 @@ Use [Rammus](https://cros.tech/device/shyvana/) for Intel.
 Replace /dev/disk with the device you want to install it on (eg /dev/sda, /dev/mmcblk0)
 
 Your install disk will NEVER be a swap drive or a loop drive!
+
+# Legacy (NON-EFI) Installation
+```sudo bash chromeos_install.sh -src <recovery image> -dst /dev/disk -l```
+Replace /dev/disk with the device you want to install it on (eg /dev/sda, /dev/mmcblk0)
+
+Your install disk will NEVER be a swap drive or a loop drive!
